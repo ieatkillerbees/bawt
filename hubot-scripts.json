@@ -1,1 +1,12 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+    "redis-brain.coffee", 
+    "shipit.coffee", 
+    "abstract.coffee", 
+    "achievement_unlocked.coffee", 
+    "advice.coffee",
+    "applause.coffee",
+    "ascii.coffee",
+    "base64.coffee",
+    "bitly.coffee",
+    "phpdoc.coffee"
+]
